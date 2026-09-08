@@ -5,7 +5,7 @@ Data and R scripts associated with the article: Fournier M, Louppe V, Toussaint-
 
 # Data:
 
-list_of_specimens: list of specimens used in this study, including information on subspecies, life cycle category, locality, date of collection, and presence of hyoid bones.
+list_hyoid: list of specimens used in this study, including information on subspecies, life cycle category, locality, date of collection, and presence of hyoid bones.
 
 Linear_measurements: file containing linear measurement data used to quantify body morphology.
 	> Linear_measurements_Ichthyosaura_alpestris_lc: raw data of linear measurements taken with a digital caliper (Mitutoyo Absolute AOS Digimatic)
